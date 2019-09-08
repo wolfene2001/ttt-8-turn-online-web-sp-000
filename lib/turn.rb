@@ -7,7 +7,7 @@ def turn(board)
   #  move(board, index, character = "X")
      true
   elsif turn(board)
-  
+
   end
 
 
