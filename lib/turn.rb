@@ -6,8 +6,8 @@ def turn(board)
   #   true
   #  move(board, index, character = "X")
      true
-  else turn(board)
-  true
+  elsif turn(board)
+  
   end
 
 
