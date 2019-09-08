@@ -6,7 +6,7 @@ def turn(board)
   #   true
   #  move(board, index, character = "X")
      true
-  elsif turn(board)
+  #elsif turn(board)
 
   end
 
